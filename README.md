@@ -20,13 +20,18 @@ It covers DOM manipulation, event handling, input validation and loops across th
 
 **Question 1:**
 ![Question 1 Output Before](output1a.png)
-![Question 1 Output After](output/output1b.png)
+
+![Question 1 Output After](output1b.png)
 
 **Question 2:**
 ![Question 2 Output](output2a.png)
+
 ![Question 2 Output](output2b.png)
+
 ![Question 2 Output](output2c.png)
+
 ![Question 2 Output](output2d.png)
+
 ![Question 2 Output](output2e.png)
 
 **Question 3:**
